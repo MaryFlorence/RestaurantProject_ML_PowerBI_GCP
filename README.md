@@ -2,7 +2,7 @@
 
 ## Objetivo (completar datasets)
 
-El objetivo de este proyecto es proporcionar insights estratégicos del mercado de restaurantes en un área específica, mediante el análisis de datos obtenidos de diversas fuentes, como reseñas en Google Maps y Yelp, XXXXXXX. Con base en estos análisis, se buscará identificar oportunidades de crecimiento y mejoras para las empresas de restaurantes, brindando recomendaciones fundamentadas para optimizar su rendimiento y satisfacer las preferencias y necesidades de los clientes. 
+El objetivo de este proyecto es proporcionar insights estratégicos del mercado de restaurantes en un área específica, mediante el análisis de datos obtenidos de diversas fuentes, como reseñas en Google Maps y Yelp, XXXXXXX. En base a este análisis, se buscará identificar oportunidades de crecimiento y mejoras para las empresas de restaurantes, brindando recomendaciones fundamentadas para optimizar su rendimiento y satisfacer las preferencias y necesidades de los clientes. 
 
 El proyecto tiene objetivo dar recomendaciones para nuevas aperturas y mejoras para la satisfacción del cliente y fidelización.
 
