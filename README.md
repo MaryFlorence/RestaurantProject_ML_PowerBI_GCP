@@ -1,21 +1,35 @@
 # ProyectoFinalDS
 
-## Objetivo (completar datasets)
+Bienvenidos a DataGrowth!
 
-El objetivo de este proyecto es proporcionar insights estratégicos del mercado de restaurantes en un área específica, mediante el análisis de datos obtenidos de diversas fuentes, como reseñas en Google Maps y Yelp, XXXXXXX. En base a este análisis, se buscará identificar oportunidades de crecimiento y mejoras para las empresas de restaurantes, brindando recomendaciones fundamentadas para optimizar su rendimiento y satisfacer las preferencias y necesidades de los clientes. 
+En DataGrowth, creemos en el poder transformador de la información. Somos una empresa dedicada a potenciar a otras empresas a tomar decisiones más informadas y estratégicas mediante el análisis y uso efectivo de datos. Nuestro objetivo es ayudar a las organizaciones a ser más competitivas en el mercado y expandir su potencial al máximo.
 
-El proyecto tiene objetivo dar recomendaciones para nuevas aperturas y mejoras para la satisfacción del cliente y fidelización.
+Somos apasionados por la data y su capacidad para impulsar el crecimiento empresarial. En un mundo impulsado por la información, consideramos que la data es una herramienta clave para obtener una ventaja competitiva, mejorar la eficiencia operativa y descubrir nuevas oportunidades de crecimiento.
+
+Nuestro equipo de expertos en análisis de datos y consultoría está comprometido a brindar soluciones personalizadas a cada cliente. Trabajamos en estrecha colaboración con las empresas para entender sus necesidades únicas y ofrecer estrategias y soluciones adaptadas a sus objetivos específicos.
+
+En esta ocasión queremos compartirles un proyecto especifico para el rubro de restaurantes.
+
+
+## Equipo y metodologia de trabajo
+![Captura Equipo](Equipoymetodologia.png)
+
+
+## Objetivo 
+
+El objetivo de este proyecto es proporcionar insights estratégicos del mercado de restaurantes en un área específica, mediante el análisis de datos obtenidos de diversas fuentes, como reseñas en Google Maps y Yelp, y datasets complementarios para entendimiento de mercado. En base a estos análisis, se buscará identificar oportunidades de crecimiento y mejoras para las empresas de restaurantes, brindando recomendaciones fundamentadas para optimizar su rendimiento y satisfacer las preferencias y necesidades de los clientes. 
+
+El proyecto tiene como objetivo dar recomendaciones para nuevas aperturas y mejoras para la satisfacción del cliente y fidelización.
+
 
 ## Alcance
 
-Se toman 6 Estados: Texas, California, Indiana, Kentucky, Iowa, Mississippi. La selección se hizo con un sistema de scoring ponderando variables de potencial (Densidad poblacional, GDP per capita, Personal Income, Restaurants Fast food per capita) y variables de costo (avg rent, avg min_wage, avg_taxes). Se seleccionaron aquellos que tenían +65ptos.
-
+Se toman 6 Estados: Texas, California, Indiana, Kentucky, Iowa, Mississippi. La selección se hizo con un sistema de scoring ponderando variables de potencial y variables de costo.
 El año a analizar es 2022.
+
 
 Se excluye:
 * Análisis detallado de competencia: El análisis se enfoca en el potencial y costos de apertura de nuevos restaurantes en los estados seleccionados, pero no incluye un análisis detallado de la competencia en cada mercado.
-* Análisis a nivel local.
-
 
 ## KPIs
 
@@ -24,3 +38,12 @@ Se excluye:
 * Ticket promedio: USD$20 (+30%) en 12 meses.
 * Customer Acquisition Cost: 30usd primeros 6 meses, 20usd después de los 6 meses.
 * ROI ads: 100% en 6 meses, 300% en 12 meses.
+* Desperdicio de alimentos: 10% en 12 meses.
+* Huella de carbono: 20% de los insumos deberan adquirirse en no más de 200km (en 12 meses).
+
+
+
+
+## GANTT
+
+![Captura GANTT](GANTT.png)
