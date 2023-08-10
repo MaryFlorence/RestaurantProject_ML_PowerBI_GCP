@@ -41,7 +41,25 @@ Se excluye:
 * Desperdicio de alimentos: 10% en 12 meses.
 * Huella de carbono: 20% de los insumos deberan adquirirse en no más de 200km (en 12 meses).
 
+## Stack Tecnológico
 
+* Github: Repositorio para hostear el trabajo colaborativo del proyecto.
+* Asana: Organización de tareas, owners, y timelines.
+* Visual Studio Code: Software para trabajar algunas transformaciones de datos y visualizaciones analiticas.
+* Google Colab: Servicio cloud para trabajar de forma colaborativa en desarrollo de código para funciones.
+* Google Cloud Platform: Plataforma de computación en la nube que ofrece una amplia gama de servicios de infraestructura y aplicaciones en la nube.
+* Google Cloud Storage: Servicio Cloud de almacenamiento.
+* Google Cloud Function: Servicio serverless para ejecutar código en respuesta a eventos y triggers.
+* Google Cloud Scheduler: Servicio para programar eventos.
+* Google Big Query: Servicio para crear tablas y hacer analisis de altos volumenes de datos.
+* Google Maps API: Servicio de Google que permite integrar mapas y funciones geolocalizadas en aplicaciones, esencial para análisis geoespaciales en ciencia de datos.
+* Power PowerBI: Software de visualización de datos.
+* Python: Lenguaje de programación usado para ciencia de datos.
+
+Librerias Python:
+* Pandas
+* Matplotlib
+* Seaborn
 
 
 ## GANTT
