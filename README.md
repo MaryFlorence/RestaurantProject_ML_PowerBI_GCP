@@ -1,4 +1,4 @@
-# ProyectoFinalDS
+# Proyecto Restaurantes con Google Maps y Yelp
 
 Bienvenidos a DataGrowth!
 
