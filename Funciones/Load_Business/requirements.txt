@@ -1,0 +1,8 @@
+google-cloud-storage 
+google-cloud-bigquery 
+googlemaps 
+pandas 
+fsspec 
+gcsfs 
+pyarrow 
+fastparquet 
